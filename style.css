@@ -1,3 +1,18 @@
 h1 {
-    color: green;
+    color: rgb(62, 12, 169);
+}
+
+body {
+    background-color: #ccc;
+}
+ul {
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+}
+.contact-btn {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
 }
